@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+テンプレート:Slimの練習用のタスク管理アプリです  
+参考書籍:「現場で使える Ruby on Rails5 速修実践ガイド 5.2対応」  
+ISBN:9784839962227  
